@@ -10,7 +10,7 @@ The objective of our project is to study various sentiment detection algorithms 
 
 The IMDB dataset has 50K movie reviews for natural language processing or Text analytics. This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. A set of 25,000 highly polar movie reviews are available for training and 25,000 for testing. 
 
-The dataset can be found using the following link on Kaggle: http://ai.stanford.edu/~amaas/data/sentiment/
+The raw dataset can be found using the following link: http://ai.stanford.edu/~amaas/data/sentiment/
 
 ## Instructions to start coding yourself
 
