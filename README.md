@@ -6,7 +6,7 @@ Sentiment analysis is done to extract people's opinions from a large number of u
 
 The objective of our project is to study various sentiment detection algorithms to analyse movie reviews and differentiate genuine reviews from fake ones and improve on them to overcome their limitations in various fields and make the system more usable.
 
-## Datset used
+## Dataset used
 
 The IMDB dataset has 50K movie reviews for natural language processing or Text analytics. This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. A set of 25,000 highly polar movie reviews are available for training and 25,000 for testing. 
 
